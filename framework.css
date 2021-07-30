@@ -254,3 +254,12 @@ form .input:focus {
 .centered-text { text-align: center; }
 .left-text { text-align: left; }
 -right-text { text-align: right; }
+
+.typo {
+    color: #4E5150;
+    font-size: 35px;
+}
+
+.headers {
+    color: #505D61;
+}
